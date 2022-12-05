@@ -12,7 +12,7 @@ Game stops when the player's lives go below zero.
 
 - There are three types of bricks that give different score points: green, purple and red bricks.
 
-- Green bricks takes one hit to break, purple bricks two hit and red bricks 
+- Green bricks takes one hit to break, purple bricks two hit and red bricks three hit.
 
 - Random drops occurs if the ball hits purple bricks first time. 
   These drops can make paddle smaller, bigger, make player lost 1 live and add a new ball.
