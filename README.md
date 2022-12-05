@@ -15,6 +15,8 @@ Game stops when the player's lives go below zero.
 - Green bricks takes one hit to break, purple bricks two hit and red bricks three hit.
 
 - Random drops occurs if the ball hits purple bricks first time. 
-  These drops can make paddle smaller, bigger, make player lost 1 live and add a new ball.
+  These drops can make paddle smaller, bigger, make player lost one live and add a new ball to the game.
 
 - Red bricks drops a new live at second hit.
+
+- Player can call the ball to the paddle by losing one live with pressing "L". I added this mechanic for situtations that the main ball stucks somewhere and player can not do anything about it :). 
