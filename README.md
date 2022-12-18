@@ -20,3 +20,6 @@ Game stops when the player's lives go below zero.
 - Red bricks drops a new live at second hit.
 
 - Player can call the ball to the paddle by losing one live with pressing "L". I added this mechanic for situtations that the main ball stucks somewhere and player can not do anything about it :). 
+
+
+![alt text](https://github.com/[btuhany]/[BrickBreaker-Unity]/blob/[BrickBreaker-Unity]/ss1.jpg?raw=true)
