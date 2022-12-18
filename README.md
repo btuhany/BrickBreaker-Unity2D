@@ -22,4 +22,6 @@ Game stops when the player's lives go below zero.
 - Player can call the ball to the paddle by losing one live with pressing "L". I added this mechanic for situtations that the main ball stucks somewhere and player can not do anything about it :). 
 
 
-
+![ss1](https://user-images.githubusercontent.com/114235184/208315113-98d76bfa-d404-4bec-bbf4-45c03f8a76ff.JPG)
+![ss2](https://user-images.githubusercontent.com/114235184/208315119-269c0ac3-18ba-4329-aa9c-4c53f56d7d4e.JPG)
+![ss3](https://user-images.githubusercontent.com/114235184/208315124-24237f97-8b34-4fbf-9aed-0946982a5d01.JPG)
