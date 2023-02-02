@@ -1,6 +1,6 @@
 # BrickBreaker-Unity
 My first project on unity. It is a very simple game. It helped me to learn unity basics.
-
+https://btuhan.itch.io/brickandball <br>
 
 ### Game Rules
 The main purpose is getting the highest score by breaking bricks with the ball and paddle. 
